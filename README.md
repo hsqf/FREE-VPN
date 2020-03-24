@@ -42,8 +42,8 @@
    https://chrome.google.com/webstore/detail/skyzip-proxy/hbgknjagaclofapkgkeapamhmglnbphi?hl=zh-CN
    *速度不稳,时快时慢,总体还是不错,比前两个差.*
    
-+ SetupVPN
-   https://chrome.google.com/webstore/detail/oofgbpoabipfcfjapgnbbjjaenockbdp
++ SetupVPN   
+   https://chrome.google.com/webstore/detail/oofgbpoabipfcfjapgnbbjjaenockbdp  
    *比较稳,但速度不是很快,自己可以去试一试,节点还是很多的.*
   
 
