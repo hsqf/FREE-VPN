@@ -31,7 +31,7 @@
 --------------------------------------
 ### Chrome插件
 + **Astar VPN**        
-   https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?hl=zh-CN***
+   https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?hl=zh-CN
    *速度还行,用了很久,很稳定.*
    
 + **VeePN**         
