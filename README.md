@@ -24,12 +24,17 @@
 * https://thessr.shop/auth/login  
 * https://skcloud.site/auth/register?code=Ot7A  
 * https://d9cloud.pw/user  
-### 增加几个
+### 2020.4.4增加4个
 * https://skcloud.site/auth/register?code=Ot7A
 * https://d9cloud.pw/user
 * https://neukssr.club/user
-* https://www.hx4.pw/ (可无限嫖,不验证邮箱)
-***
+* https://www.hx4.pw/ 
+
+### 2020.4.8增加1个
+* https://youyun666.com/user
+
+有一些机场是可以无限嫖哦,自己去试试.
+
 ## 免费VPN Chrome插件(速度较快粗体,看ytb能到1080p)
 
 + **Astar VPN**        
