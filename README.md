@@ -30,7 +30,7 @@ https://d9cloud.pw/user
 </code></pre>
 </details> 
 
-### 2020.4.15增加4个
+### 2020.4.15增加9个
 * https://skcloud.site/auth/register?code=Ot7A
 * https://d9cloud.pw/user
 * https://neukssr.club/user
