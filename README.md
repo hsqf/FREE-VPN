@@ -1,37 +1,47 @@
 # 我自己分享的一些免费机场以及免费VPN,白嫖为主  
 ***
-## 免费机场 
-* https://free-ss.site/  
-* https://ssrtool.us/tool/recV3?uri=/tool/free_ssr     
-* https://freefq.com/v2ray/           
-* https://kiki789.com/user  
-* https://www.jssr.vip/user  
-* https://lncn.org/    
-* https://freemycloud.xyz/user#           
-* https://www.v2aky.com/#/subscribe       
-* https://paoluz.club/user/node    
-* https://paoluz.club/user/node     
-* https://coloo.in/user#       
-* https://zuisucloud.today/user/node        
-* https://www.youneed.win/free-ssr    
-* https://github.com/ThinkDevelop/Free-SS-SSR  
-* https://woocloud.icu/auth/login      
-* https://ssrfree.online/auth/login  
-* https://ji-ao.pw/user  
-* https://n95cloud.com/auth/login  
-* https://bianhuaho.com/user#  
-* https://bianhuaho.com/user#  
-* https://thessr.shop/auth/login  
-* https://skcloud.site/auth/register?code=Ot7A  
-* https://d9cloud.pw/user  
-### 2020.4.4增加4个
+## 免费机场
+<details>
+<summary>展开查看</summary>
+<pre><code>
+https://free-ss.site/  
+https://ssrtool.us/tool/recV3?uri=/tool/free_ssr     
+https://freefq.com/v2ray/           
+https://kiki789.com/user  
+https://www.jssr.vip/user  
+https://lncn.org/    
+https://freemycloud.xyz/user#           
+https://www.v2aky.com/#/subscribe       
+https://paoluz.club/user/node    
+https://paoluz.club/user/node     
+https://coloo.in/user#       
+https://zuisucloud.today/user/node        
+https://www.youneed.win/free-ssr    
+https://github.com/ThinkDevelop/Free-SS-SSR  
+https://woocloud.icu/auth/login      
+https://ssrfree.online/auth/login  
+https://ji-ao.pw/user  
+https://n95cloud.com/auth/login  
+https://bianhuaho.com/user#  
+https://bianhuaho.com/user#  
+https://thessr.shop/auth/login  
+https://skcloud.site/auth/register?code=Ot7A  
+https://d9cloud.pw/user  
+</code></pre>
+</details> 
+
+### 2020.4.15增加4个
 * https://skcloud.site/auth/register?code=Ot7A
 * https://d9cloud.pw/user
 * https://neukssr.club/user
 * https://www.hx4.pw/ 
-
-### 2020.4.8增加1个
 * https://youyun666.com/user
+* https://v.2ray.de/auth/register
+* https://n3ro.fun/auth/register
+* https://kcjisu.casa/auth/register
+* https://xtunnel.cc/auth/register?code=suDN
+
+
 
 有一些机场是可以无限嫖哦,自己去试试.
 
